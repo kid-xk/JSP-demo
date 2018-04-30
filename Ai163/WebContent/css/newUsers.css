@@ -1,0 +1,87 @@
+@CHARSET "UTF-8";
+        body{
+            background-color: #f9f9f9;
+        }
+        #all{
+            width: 995px;
+            height: 1000px;
+            margin-top: 50px;
+        }
+        #content{
+            width: 965px;
+            height: 1000px;
+            margin-left: 450px;
+        }
+        #content h5{
+            font-family: 微软雅黑;
+            font-size: 12px;
+            color: #999;
+            margin-left: 200px;
+        }
+        #top{
+            width: 680px;
+            height: 30px;
+            background-image: url("../login_images/glb_v2.png");
+            position: absolute;
+            background-position: 10px 0px;
+        }
+        #topr{
+            width: 315px;
+            height: 30px;
+            position: relative;
+            margin-left: 800px;
+        }
+        #topr p{
+            /*padding-top: 8px;*/
+            font-size: 13px;
+        }
+        #buttom{
+            width: 965px;
+            height: 800px;
+            border: 1px solid gainsboro;
+            margin-top: 20px;
+        }
+        #buttomt{
+            width: 965px;
+            height: 35px;
+            background-color: #6596c6;
+            margin-top: -20px;
+        }
+        #buttomt p{
+            margin-left: 30px;
+            line-height: 35px;
+            font-family: 微软雅黑;
+            color: white;
+        }
+        #buttoml{
+            width: 650px;
+            height: 600px;
+            background-color: #ffffff;
+            float: left;
+        }
+        #buttoml h3{
+            padding-top: 100px;
+            padding-left: 280px;
+        }
+
+        #buttoml b{
+            margin-top: 20px;
+            margin-left: 170px;
+        }
+        #buttoml  input{
+            width: 220px;
+            height: 30px;
+            font-size: 20px;
+        }
+        #buttoml button{
+            background-color: #64b552;
+            font-family: 微软雅黑;
+            font-size: 15px;
+            color: #ffffff;
+            width: 90px;
+            height: 45px;
+            margin-left: 270px;
+        }
+        #buttomr{
+            float: left;
+        }

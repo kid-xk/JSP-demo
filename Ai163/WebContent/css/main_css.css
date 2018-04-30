@@ -1,0 +1,390 @@
+#head{
+    width: 100%;
+    height: 45px;
+    background-color: #343434;
+}
+#headl{
+    width: 10%;
+    height: 45px;
+    float: left;
+}
+#headl ul{
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 0px;
+    line-height: 45px;
+    color: white;
+    font-size: 13px;
+    float: left;
+}
+#headl a{
+    color: white;
+    text-decoration: none;
+}
+#headl a:hover{
+    text-decoration: underline;
+}
+#headl p{
+    width: 58px;
+    height: 45px;
+    margin-left: 5px;
+    margin-top: 0px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 13px;
+    color: white;
+    float: left;
+}
+#headl p:hover{
+    background-color: #202020;
+}
+#headr{
+    width: 45%;
+    height: 45px;
+    margin-left: 45%;
+    float: left;
+}
+#headr ul{
+    list-style: none;
+    margin-left: -32px;
+    margin-top: 0px;
+}
+#headr ul li{
+    float: left;
+    line-height: 45px;
+}
+#headrli1{
+    width: 513px;
+    height: 45px;
+    margin-left: -8px;
+    background-image: url("../main_images/wy.PNG");
+}
+#headrli2{
+    width: 70px;
+    height: 45px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+#headrli2 a{
+    color: white;
+    text-decoration: none;
+}
+#headrli2:hover{
+    background-color: #f71010;
+}
+#headrli3{
+    width: 110px;
+    height: 45px;
+    color: white;
+    border-right: 1px solid white;
+    font-size: 14px;
+    line-height: 45px;
+    text-align: center;
+}
+#headrli3:hover{
+    background-color: #202020;
+}
+#headrli3 a{
+    color: white;
+    text-decoration: none;
+}
+#headrli3 a:hover{
+    text-decoration: underline;
+}
+#wyzn{
+    width: 100%;
+    height: 91px;
+    background-image: url("../main_images/bg.png");
+}
+#logo{
+    width: 260px;
+    height: 90px;
+    background-image: url("../main_images/logo.gif");
+    margin-left: 400px;
+}
+#left{
+    float: left;
+    margin-left: 300px;
+    width: 200px;
+    margin-right: 50px;
+
+}
+.text{
+    width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: 微软雅黑;
+    color: grey;
+}
+.text a{
+    text-decoration: none;
+    color: black;
+}
+.text a:hover{
+    color: darkgreen;
+}
+#daohang{
+    width: 60%;
+    height: 50px;
+    margin-left: 22%;
+}
+#daohang ul{
+    list-style: none;
+}
+#daohang ul li{
+    width: 122px;
+    height: 50px;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 50px;
+    text-align: center;
+}
+#daohang ul li a{
+    text-decoration: none;
+    color: #343434;
+}
+#daohang ul li a:hover{
+    color: #9fc34f;
+}
+#daohangli1{
+    margin-left: -70px;
+}
+#tupian{
+    width: 100%;
+    height: 450px;
+}
+#tupian1{
+    width: 360px;
+    height: 450px;
+    background-image: url("../main_images/tupian1.jpeg");
+    float: left;
+    color: white;
+}
+#tupian1 p{
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#tupian2{
+    width: 900px;
+    height: 450px;
+    background-image: url("../main_images/tupian2.jpeg");
+    float: left;
+    color: white;
+}
+#tupian2 p{
+    font-size: 35px;
+    margin-top: 380px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#tupian3{
+    width: 300px;
+    height: 450px;
+    float: left;
+}
+#tupian3_1{
+    width: 300px;
+    height: 225px;
+    background-image: url("../main_images/tupian3_1.jpeg");
+    color: white;
+}
+#tupian3_2{
+    width: 300px;
+    height: 225px;
+    background-image: url("../main_images/tupian3_2.jpeg");
+    color: white;
+}
+#tupian4{
+    width: 327px;
+    height: 450px;
+    float: left;
+    background-image: url("../main_images/tupian4.jpeg");
+    color: white;
+}
+#tupian4 p{
+    font-size: 20px;
+    margin-top: 380px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#bodyl{
+    width: 600px;
+    float: left;
+}
+.title1{
+    width: 150px;
+    height: 30px;
+    font-size: 24px;
+    margin-top: 50px;
+}
+.bodyl1{
+    width: 600px;
+    height: 120px;
+    margin-top: 50px;
+}
+.bodyl1_1{
+    width: 190px;
+    height: 120px;
+    float: left;
+}
+.bodyl1_2{
+    width: 400px;
+    height: 120px;
+    float: left;
+    margin-left: 10px;
+}
+.bodyl1_2_1{
+    width: 400px;
+    height: 60px;
+}
+.bodyl1_2_1 a{
+    text-decoration: none;
+    font-size: 21px;
+    color: #414141;
+}
+.bodyl1_2_1 a:hover{
+    color: #659302;
+}
+.bodyl1_2_2{
+    width: 400px;
+    height: 60px;
+}
+.wyzn{
+    width: 65px;
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 20px;
+    background-image: url("../main_images/wyzn.PNG");
+}
+.bodyl1_2_2 p{
+    font-size: 14px;
+    color: #bbbbbb;
+    margin-left: 90px;
+    margin-top: -20px;
+}
+.bodyl2{
+    width: 600px;
+    height: 345px;
+    margin-top: 50px;
+}
+.bodyl2 p{
+    font-size: 22px;
+    font-family: 黑体;
+}
+.bodyl2 a{
+    text-decoration: none;
+    color: #414141;
+}
+.bodyl2 a:hover{
+    color: #659302;
+}
+.wyzn2{
+    width: 65px;
+    height: 25px;
+    margin-left: 530px;
+    margin-top: -45px;
+    background-image: url("../main_images/wyzn.PNG");
+}
+.bodyl2_1{
+    width: 600px;
+    height: 300px;
+    margin-top: 20px;
+}
+#bodyr{
+    width: 303px;
+    margin-left: 100px;
+    float: left;
+}
+#bodyryx{
+    width: 303px;
+}
+#bodyryx1{
+    width: 300px;
+    height: 190px;
+    background-image: url("../main_images/ai.jpeg");
+    margin-top: 50px;
+}
+#bodyryx2{
+    width: 300px;
+    height: 38px;
+    background-image: url("../main_images/aiyx2.PNG");
+    margin-top: 10px;
+}
+#bodyryjy{
+    width: 303px;
+}
+.bodyryjy1 p{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 17px;
+    float: left;
+}
+.bodyryjy1_1 p{
+    margin-left: 90px;
+    margin-top: -45px;
+    font-size: 16px;
+    color: #bbbbbb;
+    margin-bottom:35px;
+}
+.bodyryjy1_1 p:hover{
+    color: #659302;
+}
+.bodyryjy{
+    width: 80px;
+    height: 80px;
+    margin-top: 20px;
+    float: left;
+}
+#bodyrsl{
+    width: 303px;
+    margin-top: 570px;
+}
+#bodyrsl1 a{
+    text-decoration: none;
+    color: #202020;
+}
+.bodyrsl1{
+    margin-top: 20px;
+    
+}
+.bodyrsl1_1{
+    font-family: 黑体;
+    float: left;
+}
+.bodyrsl1_2{
+    font-size: 15px;
+    color: #676767;
+    
+}
+	a{
+	text-decoration: none;
+	}
+ 
+#foot{
+    width:100%;
+    height: 45px;
+    background-color: black;
+    margin-top: 2000px;
+}
+#foot a{
+    text-decoration: none;
+    color: #dddddd;
+}
+#foot a:hover{
+    text-decoration: underline;
+}
+#foot ul{
+    list-style: none;
+    margin-left: 24%;
+}
+#foot ul li{
+    display: inline-block;
+    line-height: 45px;
+    font-size: 13px;
+    color: #dddddd;
+
+}
